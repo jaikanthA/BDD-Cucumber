@@ -1,0 +1,91 @@
+2020-07-07 00:09:09 INFO   EmployeesRestAPI:43 - ********** Test Executing*************
+2020-07-07 00:09:20 INFO   EmployeesRestAPI:62 - ********** Browser Started*************
+2020-07-07 00:09:27 INFO   EmployeesRestAPI:68 - ********** Entered the URL*************
+2020-07-07 00:09:30 INFO   EmployeesRestAPI:76 - ********** Clicked the My Account button*************
+2020-07-07 00:09:33 INFO   EmployeesRestAPI:88 - ********** Entered Username and Password*************
+2020-07-07 00:09:35 INFO   EmployeesRestAPI:95 - ********** Clicked Login button*************
+2020-07-07 00:09:42 INFO   EmployeesRestAPI:107 - ********** Successfully get login*************
+2020-07-07 00:25:17 INFO   EmployeesRestAPI:43 - ********** Test Executing*************
+2020-07-07 00:25:26 INFO   EmployeesRestAPI:62 - ********** Browser Started*************
+2020-07-07 00:25:34 INFO   EmployeesRestAPI:68 - ********** Entered the URL*************
+2020-07-07 00:25:38 INFO   EmployeesRestAPI:76 - ********** Clicked the My Account button*************
+2020-07-07 00:25:40 INFO   EmployeesRestAPI:88 - ********** Entered Username and Password*************
+2020-07-07 00:25:42 INFO   EmployeesRestAPI:95 - ********** Clicked Login button*************
+2020-07-07 00:25:42 INFO   EmployeesRestAPI:107 - ********** Successfully get login*************
+2020-07-07 00:27:28 INFO   EmployeesRestAPI:43 - ********** Test Executing*************
+2020-07-07 00:27:38 INFO   EmployeesRestAPI:62 - ********** Browser Started*************
+2020-07-07 00:27:43 INFO   EmployeesRestAPI:68 - ********** Entered the URL*************
+2020-07-07 00:27:46 INFO   EmployeesRestAPI:76 - ********** Clicked the My Account button*************
+2020-07-07 00:27:46 INFO   EmployeesRestAPI:88 - ********** Entered Username and Password*************
+2020-07-07 00:27:48 INFO   EmployeesRestAPI:95 - ********** Clicked Login button*************
+2020-07-07 00:27:49 INFO   EmployeesRestAPI:107 - ********** Successfully get login*************
+2020-07-07 00:28:41 INFO   EmployeesRestAPI:43 - ********** Test Executing*************
+2020-07-07 00:28:52 INFO   EmployeesRestAPI:62 - ********** Browser Started*************
+2020-07-07 00:28:58 INFO   EmployeesRestAPI:68 - ********** Entered the URL*************
+2020-07-07 00:29:02 INFO   EmployeesRestAPI:76 - ********** Clicked the My Account button*************
+2020-07-07 00:29:03 INFO   EmployeesRestAPI:88 - ********** Entered Username and Password*************
+2020-07-07 00:30:03 INFO   EmployeesRestAPI:43 - ********** Test Executing*************
+2020-07-07 00:30:13 INFO   EmployeesRestAPI:62 - ********** Browser Started*************
+2020-07-07 00:30:19 INFO   EmployeesRestAPI:68 - ********** Entered the URL*************
+2020-07-07 00:30:22 INFO   EmployeesRestAPI:76 - ********** Clicked the My Account button*************
+2020-07-07 00:30:24 INFO   EmployeesRestAPI:88 - ********** Entered Username and Password*************
+2020-07-07 00:30:26 INFO   EmployeesRestAPI:95 - ********** Clicked Login button*************
+2020-07-07 00:30:31 INFO   EmployeesRestAPI:107 - ********** Successfully get login*************
+2020-07-07 00:35:02 INFO   EmployeesRestAPI:43 - ********** Test Executing*************
+2020-07-07 00:35:13 INFO   EmployeesRestAPI:62 - ********** Browser Started*************
+2020-07-07 00:35:20 INFO   EmployeesRestAPI:68 - ********** Entered the URL*************
+2020-07-07 00:35:23 INFO   EmployeesRestAPI:76 - ********** Clicked the My Account button*************
+2020-07-07 00:35:24 INFO   EmployeesRestAPI:88 - ********** Entered Username and Password*************
+2020-07-07 00:35:24 INFO   EmployeesRestAPI:95 - ********** Clicked Login button*************
+2020-07-07 00:35:26 INFO   EmployeesRestAPI:107 - ********** Successfully get login*************
+2020-07-07 00:37:36 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:37:45 INFO   EmployeesRestAPI:70 - ********** Browser Started*************
+2020-07-07 00:37:51 INFO   EmployeesRestAPI:76 - ********** Entered the URL*************
+2020-07-07 00:37:55 INFO   EmployeesRestAPI:84 - ********** Clicked the My Account button*************
+2020-07-07 00:37:56 INFO   EmployeesRestAPI:96 - ********** Entered Username and Password*************
+2020-07-07 00:37:58 INFO   EmployeesRestAPI:103 - ********** Clicked Login button*************
+2020-07-07 00:37:59 INFO   EmployeesRestAPI:115 - ********** Successfully get login*************
+2020-07-07 00:38:26 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:38:36 INFO   EmployeesRestAPI:70 - ********** Browser Started*************
+2020-07-07 00:38:42 INFO   EmployeesRestAPI:76 - ********** Entered the URL*************
+2020-07-07 00:38:45 INFO   EmployeesRestAPI:84 - ********** Clicked the My Account button*************
+2020-07-07 00:38:46 INFO   EmployeesRestAPI:96 - ********** Entered Username and Password*************
+2020-07-07 00:38:54 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:39:03 INFO   EmployeesRestAPI:70 - ********** Browser Started*************
+2020-07-07 00:39:24 INFO   EmployeesRestAPI:76 - ********** Entered the URL*************
+2020-07-07 00:39:28 INFO   EmployeesRestAPI:84 - ********** Clicked the My Account button*************
+2020-07-07 00:39:29 INFO   EmployeesRestAPI:96 - ********** Entered Username and Password*************
+2020-07-07 00:39:32 INFO   EmployeesRestAPI:103 - ********** Clicked Login button*************
+2020-07-07 00:39:32 INFO   EmployeesRestAPI:115 - ********** Successfully get login*************
+2020-07-07 00:40:14 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:40:26 INFO   EmployeesRestAPI:70 - ********** Browser Started*************
+2020-07-07 00:40:32 INFO   EmployeesRestAPI:76 - ********** Entered the URL*************
+2020-07-07 00:40:36 INFO   EmployeesRestAPI:84 - ********** Clicked the My Account button*************
+2020-07-07 00:40:38 INFO   EmployeesRestAPI:96 - ********** Entered Username and Password*************
+2020-07-07 00:40:40 INFO   EmployeesRestAPI:103 - ********** Clicked Login button*************
+2020-07-07 00:40:41 INFO   EmployeesRestAPI:115 - ********** Successfully get login*************
+2020-07-07 00:40:41 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:40:49 INFO   EmployeesRestAPI:70 - ********** Browser Started*************
+2020-07-07 00:40:54 INFO   EmployeesRestAPI:76 - ********** Entered the URL*************
+2020-07-07 00:41:05 INFO   EmployeesRestAPI:84 - ********** Clicked the My Account button*************
+2020-07-07 00:41:08 INFO   EmployeesRestAPI:96 - ********** Entered Username and Password*************
+2020-07-07 00:41:10 INFO   EmployeesRestAPI:103 - ********** Clicked Login button*************
+2020-07-07 00:41:10 INFO   EmployeesRestAPI:115 - ********** Successfully get login*************
+2020-07-07 00:47:16 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:47:17 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:47:34 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:47:34 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:48:16 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:48:26 INFO   EmployeesRestAPI:70 - ********** Browser Started*************
+2020-07-07 00:48:34 INFO   EmployeesRestAPI:76 - ********** Entered the URL*************
+2020-07-07 00:48:37 INFO   EmployeesRestAPI:84 - ********** Clicked the My Account button*************
+2020-07-07 00:48:42 INFO   EmployeesRestAPI:96 - ********** Entered Username and Password*************
+2020-07-07 00:48:44 INFO   EmployeesRestAPI:103 - ********** Clicked Login button*************
+2020-07-07 00:48:45 INFO   EmployeesRestAPI:115 - ********** Successfully get login*************
+2020-07-07 00:48:49 INFO   EmployeesRestAPI:51 - ********** Test Executing*************
+2020-07-07 00:48:57 INFO   EmployeesRestAPI:70 - ********** Browser Started*************
+2020-07-07 00:49:04 INFO   EmployeesRestAPI:76 - ********** Entered the URL*************
+2020-07-07 00:49:08 INFO   EmployeesRestAPI:84 - ********** Clicked the My Account button*************
+2020-07-07 00:49:09 INFO   EmployeesRestAPI:96 - ********** Entered Username and Password*************
+2020-07-07 00:49:12 INFO   EmployeesRestAPI:103 - ********** Clicked Login button*************
+2020-07-07 00:49:12 INFO   EmployeesRestAPI:115 - ********** Successfully get login*************
